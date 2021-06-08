@@ -9,7 +9,7 @@
 
 ## 📫 How to reach me</h3>
 
-[![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://jklucasy.github.io)](https://jklucasy.github.io)
+[![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://jklucasy.github.io/portafolio/)](https://jklucasy.github.io/portafolio/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jklucasy/)](https://www.linkedin.com/in/jklucasy/)
 <!---
 jklucasy/jklucasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
